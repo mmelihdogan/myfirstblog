@@ -1,3 +1,3 @@
 # myfirstblog
 
-We've completed this assignment togethar with Mavera
+We've completed this assignment together with Mavera
